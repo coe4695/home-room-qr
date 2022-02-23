@@ -1,0 +1,12 @@
+{
+  "item" : {
+    "id" : "F6BA621F103EFB863DDA79F78520A757DE8FF0B3",
+    "name" : "Condura Automatic Washing Machine",
+    "type" : "Appliance" ,
+    "description" : "",
+    "specifications" : {
+      "load_capacity" : "8.5kg"
+    },
+    "location" : "Family Home - Baler, Aurora"
+  }
+}

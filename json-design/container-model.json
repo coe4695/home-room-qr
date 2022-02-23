@@ -1,0 +1,9 @@
+{
+    "container" : {
+        "id" : "<SHA1-generated>",
+        "name" : "<Container Name>",
+        "type" : "" ,
+        "contents" : {
+        }
+    }
+}
